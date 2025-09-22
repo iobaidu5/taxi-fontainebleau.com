@@ -9557,6 +9557,10 @@ footer h3 {
   }
 }
 
+.to-show-990{
+  display: none !important
+}
+
 @media (max-width:992px) {
 
   .img-responsive,
@@ -9566,11 +9570,6 @@ footer h3 {
 
   nav a {
     font-size: 18px
-  }
-
-  .slogan{
-    left: 0 !important;
-    right: 0 !important;
   }
 
   .photo-bandeau{
@@ -9596,6 +9595,18 @@ footer h3 {
     display: block;
     width: 100%; /* optional */
     height: auto;
+  }
+
+  .to-show-990{
+    display: block !important
+  }
+
+  .to-hide-990{
+    display: none !important;
+  }
+
+  .w-100{
+    width: 100% !important;
   }
 
   header .middle {

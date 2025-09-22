@@ -45,4 +45,10 @@
 <url>
 <loc>http://localhost:4000/taxi-nemours</loc>
 </url>
+<url>
+<loc>http://localhost:4000/transport-meuble-uber</loc>
+</url>
+<url>
+<loc>http://localhost:4000/uber-ou-bolt</loc>
+</url>
 </urlset>

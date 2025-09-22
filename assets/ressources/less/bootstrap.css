@@ -4452,7 +4452,7 @@ label {
   justify-content: flex-end
 }
 
-@media only screen and (min-width:768px) {
+/* @media only screen and (max-width:768px) { */
   .flex-middle {
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -4462,7 +4462,7 @@ label {
     -ms-align-items: center;
     align-items: center
   }
-}
+/* } */
 
 section.bg-cta {
   position: relative;
