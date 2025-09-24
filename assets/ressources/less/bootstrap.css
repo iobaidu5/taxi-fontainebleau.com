@@ -3969,7 +3969,7 @@ hr {
 }
 
 section.one {
-  padding: 40px 10px !important;
+  padding: 40px 10px;
 }
 
 @media only screen and (min-width:768px) {
